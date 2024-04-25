@@ -6,7 +6,7 @@
 
 Shaping Language Models with Cognitive Insights
 
-LLMindCraft by **XplainMind** Lab is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+LLMindCraft is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Docker environment
 ```bash
